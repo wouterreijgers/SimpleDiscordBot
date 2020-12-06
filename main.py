@@ -5,7 +5,7 @@ import discord
 
 
 #Token that connects with the bot
-TOKEN = 'NzgxOTU2NTYyMTAwNDIwNjA4.X8FLzA.S_4caD0aKvK62K51MqG2Tely-dM'
+TOKEN = 'SECRET KEY'
 
 client = discord.Client()
 
